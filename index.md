@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 欢迎来到小K的铺
 
 You can use the [editor on GitHub](https://github.com/wengcheng/xiaokojbk/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
